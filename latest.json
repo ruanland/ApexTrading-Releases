@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.5",
-    "notes":  "v1.2.5 — Update feed baked in (no URL paste). Strategy favorites, clickable journal, content loading overlay, calculator on startup.",
-    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.5/ApexTradingCalculator.exe",
-    "sha256":  "99578449c0f740358ba6dfa4532849f02d6639fe98cb0ae82a5eb15f3a37ed79"
+    "version":  "1.2.6",
+    "notes":  "v1.2.6 — Fix Check updates stuck on Checking (thread-safe UI). Update feed baked in.",
+    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.6/ApexTradingCalculator.exe",
+    "sha256":  "8801ae85013e24e4a1170cfe1e1b1febb2785aef5f251512e31f0ff671e37d53"
 }
