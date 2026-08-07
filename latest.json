@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.3",
-    "notes":  "Apex Trading Calculator v1.2.3 - GitHub updates enabled. Install with ApexTradingSetup.exe.",
-    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.3/ApexTradingCalculator.exe",
-    "sha256":  "02a3ec977b9eefcab865ef3ab8db232487a863ce646cd5f34da037e7734c4e37"
+    "version":  "1.2.4",
+    "notes":  "v1.2.4 — strategy favorites, clickable journal rows, solid content loading overlay, calculator opens on startup.",
+    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.4/ApexTradingCalculator.exe",
+    "sha256":  "a5353b11c3dee22b20b35f409af84e7b3ec48876262c75246244624c291dba91"
 }
