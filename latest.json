@@ -1,6 +1,7 @@
 {
-    "version":  "1.2.6",
-    "notes":  "v1.2.6 — Fix Check updates stuck on Checking (thread-safe UI). Update feed baked in.",
-    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.6/ApexTradingCalculator.exe",
-    "sha256":  "8801ae85013e24e4a1170cfe1e1b1febb2785aef5f251512e31f0ff671e37d53"
+    "version":  "1.2.7",
+    "notes":  "v1.2.7 — Reliable Download and install (silent setup + replace retries + fallback). Fixes update that left PCs on old version.",
+    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.7/ApexTradingCalculator.exe",
+    "sha256":  "9faff7e3697dcce54487601e7bb8a813095b3b7bb746b95340a2520840711fb9",
+    "setup_url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.7/ApexTradingSetup.exe"
 }
