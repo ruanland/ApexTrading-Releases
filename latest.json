@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.76",
-    "notes":  "Journal Review outcome charts: stacked bars, sparkline overview, Long vs Short compare tiles.",
-    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.76/ApexTradingCalculator.exe",
-    "sha256":  "3c6de7ab8ef3d9f0cb901a4d063a57a5b49df68b83f2770ed63f0defb7326d9f",
-    "setup_url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.76/ApexTradingSetup.exe"
+    "version":  "1.2.77",
+    "notes":  "Journal open positions: show live size/value and scale-in adds (count, each fill, totals) from Bybit executions.",
+    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.77/ApexTradingCalculator.exe",
+    "sha256":  "3e8c5a58bd7eea5cbc868627998b4dcce7eaef55878603de9e33eacf28779ed8",
+    "setup_url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.77/ApexTradingSetup.exe"
 }
