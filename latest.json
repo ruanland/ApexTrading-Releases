@@ -2,6 +2,6 @@
     "version":  "1.2.72",
     "notes":  "Fix auto-update: Download \u0026 install now replaces the exe and relaunches reliably (portable Discord zip and installed builds).",
     "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.72/ApexTradingCalculator.exe",
-    "sha256":  "f32a472a6614495f7453a1bfd8395f7ef9287b6b2f8a9bf48ca00b7137b337b7",
+    "sha256":  "578f22b55a562955daa9217a5c87f0435bbed021287d017f3a3ff54f7478bd09",
     "setup_url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.72/ApexTradingSetup.exe"
 }
