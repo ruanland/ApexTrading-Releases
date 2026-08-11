@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.75",
-    "notes":  "Journal Review now includes visual W/L/BE bars and Trade log adds per-trade 1% Risk snapshot from start account size.",
-    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.75/ApexTradingCalculator.exe",
-    "sha256":  "9f1043172614e2f0c9d542cffcd1dce02cefa351388cb6150b6400db09e22184",
-    "setup_url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.75/ApexTradingSetup.exe"
+    "version":  "1.2.76",
+    "notes":  "Journal Review outcome charts: stacked bars, sparkline overview, Long vs Short compare tiles.",
+    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.76/ApexTradingCalculator.exe",
+    "sha256":  "3c6de7ab8ef3d9f0cb901a4d063a57a5b49df68b83f2770ed63f0defb7326d9f",
+    "setup_url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.76/ApexTradingSetup.exe"
 }
