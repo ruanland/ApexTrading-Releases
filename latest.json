@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.71",
-    "notes":  "Lumian Trader v1.2.71 — contextual Trade Record, active partial closes, cleanup.",
-    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.71/ApexTradingCalculator.exe",
+    "version":  "1.2.72",
+    "notes":  "Fix auto-update: Download \u0026 install now replaces the exe and relaunches reliably (portable Discord zip and installed builds).",
+    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.72/ApexTradingCalculator.exe",
     "sha256":  "f32a472a6614495f7453a1bfd8395f7ef9287b6b2f8a9bf48ca00b7137b337b7",
-    "setup_url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.71/ApexTradingSetup.exe"
+    "setup_url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.72/ApexTradingSetup.exe"
 }
