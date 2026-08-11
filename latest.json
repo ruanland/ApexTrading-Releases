@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.73",
-    "notes":  "Improve Fee mode and Session preset dropdown contrast so they read as selectable fields.",
-    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.73/ApexTradingCalculator.exe",
-    "sha256":  "5dc0bb35b6693351cf8cfe95f007001fb40ebd627dda66b6c1e0fbb596a33d1c",
-    "setup_url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.73/ApexTradingSetup.exe"
+    "version":  "1.2.74",
+    "notes":  "Journal Review: monthly/weekly/long-short outcome mix, account tracking; Trade log fields (exit status, TF, session, TV link, emotions).",
+    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.74/ApexTradingCalculator.exe",
+    "sha256":  "63b3e66474e182fb5ee69a1a1c025aa00c87120699f0126b7d7519e8bfb572fa",
+    "setup_url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.74/ApexTradingSetup.exe"
 }
