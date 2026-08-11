@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.74",
-    "notes":  "Journal Review: monthly/weekly/long-short outcome mix, account tracking; Trade log fields (exit status, TF, session, TV link, emotions).",
-    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.74/ApexTradingCalculator.exe",
-    "sha256":  "63b3e66474e182fb5ee69a1a1c025aa00c87120699f0126b7d7519e8bfb572fa",
-    "setup_url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.74/ApexTradingSetup.exe"
+    "version":  "1.2.75",
+    "notes":  "Journal Review now includes visual W/L/BE bars and Trade log adds per-trade 1% Risk snapshot from start account size.",
+    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.75/ApexTradingCalculator.exe",
+    "sha256":  "9f1043172614e2f0c9d542cffcd1dce02cefa351388cb6150b6400db09e22184",
+    "setup_url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.75/ApexTradingSetup.exe"
 }
