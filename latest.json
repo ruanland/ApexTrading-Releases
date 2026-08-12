@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.79",
-    "notes":  "Fix in-app updater: LocalAppData staging + reliable .cmd replace/relaunch (no Discord zip). One last USB of this build enables normal Look-Updates forever.",
-    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.79/ApexTradingCalculator.exe",
-    "sha256":  "3992b1c42e125d352b457a5cfde769991a195f8a4d9da80ca8548b25694fe634",
-    "setup_url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.79/ApexTradingSetup.exe"
+    "version":  "1.2.80",
+    "notes":  "Group partial closes into one trade: link by open time or same entry; hide scale-out rows from journal Closed list.",
+    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.80/ApexTradingCalculator.exe",
+    "sha256":  "69a22838b86c64f26d217944cf730f840d887b505358012443894da724b6e163",
+    "setup_url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.80/ApexTradingSetup.exe"
 }
