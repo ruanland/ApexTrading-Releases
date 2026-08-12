@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.78",
-    "notes":  "Fee mode: add No fees option so sizing/TP ignore trading fees without changing exchange.",
-    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.78/ApexTradingCalculator.exe",
-    "sha256":  "eb039f3cf0dd43572dc4ecae5a1cdac68fa67fb0e1cbca1aaa12dfc0abcc7071",
-    "setup_url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.78/ApexTradingSetup.exe"
+    "version":  "1.2.79",
+    "notes":  "Fix in-app updater: LocalAppData staging + reliable .cmd replace/relaunch (no Discord zip). One last USB of this build enables normal Look-Updates forever.",
+    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.79/ApexTradingCalculator.exe",
+    "sha256":  "3992b1c42e125d352b457a5cfde769991a195f8a4d9da80ca8548b25694fe634",
+    "setup_url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.79/ApexTradingSetup.exe"
 }
