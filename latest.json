@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.77",
-    "notes":  "Journal open positions: show live size/value and scale-in adds (count, each fill, totals) from Bybit executions.",
-    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.77/ApexTradingCalculator.exe",
-    "sha256":  "3e8c5a58bd7eea5cbc868627998b4dcce7eaef55878603de9e33eacf28779ed8",
-    "setup_url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.77/ApexTradingSetup.exe"
+    "version":  "1.2.78",
+    "notes":  "Fee mode: add No fees option so sizing/TP ignore trading fees without changing exchange.",
+    "url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.78/ApexTradingCalculator.exe",
+    "sha256":  "eb039f3cf0dd43572dc4ecae5a1cdac68fa67fb0e1cbca1aaa12dfc0abcc7071",
+    "setup_url":  "https://github.com/ruanland/ApexTrading-Releases/releases/download/v1.2.78/ApexTradingSetup.exe"
 }
